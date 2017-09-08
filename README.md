@@ -1,4 +1,5 @@
-Zeroconf
+Zeroconf<br>
+(This fork fixes some bugs for WinRT [which also effect other platforms])
 ==========
 
 # Bonjour/mDNS discovery support for .NET 4.5, Windows Phone 8, Windows Store apps and Portable Class Libraries
